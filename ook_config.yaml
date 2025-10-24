@@ -1,0 +1,10 @@
+bit_rate: 10000000000.0
+noise_power: 0.05
+num_bits: 100
+oversampling_rate: 16
+pulse_shape: gaussian
+pulse_width: 0.8
+save_plots: false
+seed: 42
+show_plots: true
+use_fading: false
