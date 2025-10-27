@@ -10,3 +10,8 @@ dependencies = [
     "pyyaml>=6.0.3",
     "scipy>=1.16.2",
 ]
+
+[tool.uv.workspace]
+members = [
+    "weekly-issue-report-generator",
+]
